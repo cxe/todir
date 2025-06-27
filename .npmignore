@@ -1,0 +1,23 @@
+* copy*
+*.cache
+*.log
+*.tmp
+.cache/
+.DS_Store
+.env
+/*.tgz
+/test/coverage
+/tmp
+node_modules/
+Thumbs.db
+
+*.swp
+.editorconfig
+.gitignore
+.idea/
+.npmignore
+.vscode/
+/docs
+/test
+src/
+tsconfig.json
