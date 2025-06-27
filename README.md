@@ -1,6 +1,6 @@
 # Git Flow Directory (gfd)
 
-A simple issue tracking system for distributed offline collaboration via markdown-files in the documentation directory of your git-repository
+A lightweight issue tracker using Markdown files in your Git repository.
 
 ## Getting Started
 - clone the gfd folder into an empty directory inside your repo (e.g. my-project/docs/gfd)
