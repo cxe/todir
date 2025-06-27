@@ -1,4 +1,4 @@
-# Git Flow Directory (GFD)
+# Git Flow Directory (gfd)
 
 A simple issue tracking system for distributed offline collaboration via markdown-files in the documentation directory of your git-repository
 
