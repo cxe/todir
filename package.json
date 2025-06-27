@@ -1,5 +1,5 @@
 {
-  "name": "gfd",
+  "name": "@cxe/gfd",
   "version": "0.1.0",
   "description": "A lightweight issue tracker using Markdown files in your Git repository.",
   "keywords": [ "cli", "api", "app", "git", "markdown", "knowledgebase", "issue-tracker" ],
