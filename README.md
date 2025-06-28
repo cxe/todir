@@ -1,7 +1,7 @@
-# Git Flow Directory (gfd)
+# TrackDir (trackdir)
 
-A lightweight issue tracker using Markdown files in your Git repository.
+A lightweight issue tracker using only directories and markdown files in your repository.
 
 ## Getting Started
-- clone the gfd folder into an empty directory inside your repo (e.g. my-project/docs/gfd)
-- run `gfd/setup`
+- clone trackdir into a ".trackdir" directory inside your repo
+- run `.trackdir/setup`

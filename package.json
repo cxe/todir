@@ -1,24 +1,25 @@
 {
-  "name": "@cxe/gfd",
+  "name": "trackdir",
   "version": "0.1.0",
   "description": "A lightweight issue tracker using Markdown files in your Git repository.",
   "keywords": [ "cli", "api", "app", "git", "markdown", "knowledgebase", "issue-tracker" ],
   "author": "Ian Carter (cxe.io)",
   "license": "ISC",
+  "public": true,
   "type": "module",
   "main": "run",
   "bin": {
-    "gfd": "./run"
+    "td": "./run"
   },
   "scripts": {
     "test": "npx jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cxe/gfd.git"
+    "url": "git+https://github.com/cxe/trackdir.git"
   },
   "bugs": {
-    "url": "https://github.com/cxe/gfd/issues"
+    "url": "https://github.com/cxe/trackdir/issues"
   },
-  "homepage": "https://github.com/cxe/gfd#readme"
+  "homepage": "https://github.com/cxe/trackdir#readme"
 }
