@@ -1,7 +1,7 @@
-# TrackDir (trackdir)
+# todir
 
 A lightweight issue tracker using only directories and markdown files in your repository.
 
 ## Getting Started
-- clone trackdir into a ".trackdir" directory inside your repo
-- run `.trackdir/setup`
+- clone todir into a ".todir" directory inside your repo
+- run `.todir/setup`
